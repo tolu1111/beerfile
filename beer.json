@@ -1,0 +1,1550 @@
+[
+  {
+    "Teams": "Arizona Diamondbacks",
+    "Logos": "../static/images/Arizona-Diamondbacks-Logo.png",
+    "Beers": "Samuel Adams Boston Lager",
+    "Brewery": "Boston Beer Company (Samuel Adams)"
+  },
+  {
+    "Teams": "Arizona Diamondbacks",
+    "Logos": "../static/images/Arizona-Diamondbacks-Logo.png",
+    "Beers": "Goose Island Beer Co. Honker's Ale",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Arizona Diamondbacks",
+    "Logos": "../static/images/Arizona-Diamondbacks-Logo.png",
+    "Beers": "Goose Island Beer Co. 312 Urban Wheat",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Arizona Diamondbacks",
+    "Logos": "../static/images/Arizona-Diamondbacks-Logo.png",
+    "Beers": "Blue Moon Belgian White",
+    "Brewery": "Coors Brewing Company (Molson-Coors)"
+  },
+  {
+    "Teams": "Arizona Diamondbacks",
+    "Logos": "../static/images/Arizona-Diamondbacks-Logo.png",
+    "Beers": "Phoenix Ale Brewery Camelback IPA",
+    "Brewery": "The Phoenix Ale Brewery"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Sweetwater IPA",
+    "Brewery": "SweetWater Brewing Company"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Sweetwater LowRYEder IPA",
+    "Brewery": "SweetWater Brewing Company"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Sweetwater 420 Extra Pale Ale",
+    "Brewery": "SweetWater Brewing Company"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Sweetwater Georgia Brow",
+    "Brewery": "SweetWater Brewing Company"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Terrapin Hopsecutioner",
+    "Brewery": "Terrapin Beer Company"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Yuengling",
+    "Brewery": "Yuengling Brewery"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Yuengling Light",
+    "Brewery": "Yuengling Brewery"
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Goose Island Brewing Co. IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Goose Island Brewing Co. 312",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Atlanta Braves",
+    "Logos": "../static/images/Atlanta-Braves-Logo.png",
+    "Beers": "Blue Point Toasted Lager",
+    "Brewery": "Blue Point Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dempsey's Rick's Red Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dempsey's Wild Pitch Wheat",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dempsey's Rain Delay IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dempsey's The '83 Golden Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Flying Dog Snake Dog IPA",
+    "Brewery": "Flying Dog Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Flying Dog UnderDog Atlantic Lager",
+    "Brewery": "Flying Dog Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Flying Dog Gonzo Imperial Porter",
+    "Brewery": "Flying Dog Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Stone Levitation Ale",
+    "Brewery": "Stone Brewing"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Stone Sublimely Self-Righteous Ale",
+    "Brewery": "Stone Brewing"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Heavy Seas Loose Canno",
+    "Brewery": "Heavy Seas Beer"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Heavy Seas Cutlass Amber Lager",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Heavy Seas Small Craft Warning",
+    "Brewery": "Heavy Seas Beer"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Heavy Seas Peg Leg Stout",
+    "Brewery": "Heavy Seas Beer"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "The Raven Special Lager",
+    "Brewery": "B.W. Beer Works USA"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Old Dominion Oak Barrel Stout",
+    "Brewery": "Fordham & Dominion Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dogfish Head Namaste",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Dogfish Head 90 Minute IPA",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Shock Top Belgian Wheat",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Goose Island Honkers Ale",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Fordham Copperhead Ale",
+    "Brewery": "Fordham Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "New Belgium Fat Tire",
+    "Brewery": "New Belgium Brewing"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Oscar Blues Dale's Pale Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Southern Tier 422 Wheat Ale",
+    "Brewery": "Southern Tier Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Lagunitas Pils",
+    "Brewery": "Lagunitas Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Band of Brewers Third Shift",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Anchor Steam Beer",
+    "Brewery": "Anchor Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Starr Hill the Love",
+    "Brewery": "Starr Hill Brewery"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Lancaster Strawberry Wheat",
+    "Brewery": "Lancaster Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Leinenkugel Summer Shandy",
+    "Brewery": "Jacob Leinenkugel Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Goose Island Sofie",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Full Sail Session Black Lager",
+    "Brewery": "Full Sail Brewing Company"
+  },
+  {
+    "Teams": "Baltimore Orioles",
+    "Logos": "../static/images/Baltimore-Orioles-logo.png",
+    "Beers": "Evolution Craft Brewing Lot #3 India Pale Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Boston Red Sox",
+    "Logos": "../static/images/Boston-Red-Sox-logo.png",
+    "Beers": "Smuttynose IPA \"Finest Kind",
+    "Brewery": "Smuttynose Brewing Company"
+  },
+  {
+    "Teams": "Boston Red Sox",
+    "Logos": "../static/images/Boston-Red-Sox-logo.png",
+    "Beers": "Goose Island Beer Co. Honker's Ale",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Boston Red Sox",
+    "Logos": "../static/images/Boston-Red-Sox-logo.png",
+    "Beers": "Harpoon Octoberfest Beer",
+    "Brewery": "Harpoon Brewery & Beer Hall"
+  },
+  {
+    "Teams": "Boston Red Sox",
+    "Logos": "../static/images/Boston-Red-Sox-logo.png",
+    "Beers": "Cisco Brewers Whale's Tale Pale Ale",
+    "Brewery": "Cisco Brewers Inc."
+  },
+  {
+    "Teams": "Chicago Cubs",
+    "Logos": "../static/images/Chicago-Cubs-Logo.png",
+    "Beers": "Goose Island Beer Co. Sofie",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Chicago Cubs",
+    "Logos": "../static/images/Chicago-Cubs-Logo.png",
+    "Beers": "Goose Island Beer Co. Matilda",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Chicago Cubs",
+    "Logos": "../static/images/Chicago-Cubs-Logo.png",
+    "Beers": "Goose Island Beer Co. Green Line",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Chicago Cubs",
+    "Logos": "../static/images/Chicago-Cubs-Logo.png",
+    "Beers": "Goose Island Beer Co. 312 Urban Wheat",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Chicago White Sox",
+    "Logos": "../static/images/Chicago-White-Sox-Logo.png",
+    "Beers": "Half Acre Beer Company Daisy Cutter Pale Ale",
+    "Brewery": "Half Acre Beer Company"
+  },
+  {
+    "Teams": "Chicago White Sox",
+    "Logos": "../static/images/Chicago-White-Sox-Logo.png",
+    "Beers": "Revolution Brewing Company Anti-Hero",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Chicago White Sox",
+    "Logos": "../static/images/Chicago-White-Sox-Logo.png",
+    "Beers": "Lagunitas Brewing Company DayTime",
+    "Brewery": "Lagunitas Brewing Company"
+  },
+  {
+    "Teams": "Chicago White Sox",
+    "Logos": "../static/images/Chicago-White-Sox-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Chicago White Sox",
+    "Logos": "../static/images/Chicago-White-Sox-Logo.png",
+    "Beers": "Rogue Ales Dead Guy Ale",
+    "Brewery": "Rogue Ales"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Rhinegeist Truth American IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Shock Top Belgian White",
+    "Brewery": "Anheuser-Busch"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Mad Tree PsycHOPathy IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "50 West Wire to Wire Wheat",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "New Belgium Fat Tire Amber Ale",
+    "Brewery": "New Belgium Brewing"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Mt. Carmel Nut Brown Ale",
+    "Brewery": "Mt. Carmel Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Christian Moerlein Altered Pale Ale",
+    "Brewery": "Christian Moerlein Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Christian Moerlein Over-The-Rhine Ale",
+    "Brewery": "Christian Moerlein Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Blank Slate The Lesser Path IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Listermann Leopold Belgium Blonde",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Rivertown Blueberry Lager",
+    "Brewery": "Rivertown Brewery & Barrel House"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Braxton Brewing Sparky Hoppy Wheat Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Kentucky Bourbon Barrel Ale",
+    "Brewery": "Alltech's Lexington Brewing and Distilling Co."
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Warped Wing Ermal's Belgian Style Cream Ale",
+    "Brewery": "Warped Wing Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "21st Amendment Hell or High Watermelon Wheat",
+    "Brewery": "21st Amendment Brewery"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Bell's Oberon Pale Wheat Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Founders All Day IPA",
+    "Brewery": "Founders Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Deschutes Mirror Pond Pale Ale",
+    "Brewery": "Deschutes Brewery"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "SweetWater 420 Extra Pale Ale",
+    "Brewery": "SweetWater Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Yuengling Traditional Lager",
+    "Brewery": "Yuengling Brewery"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Leinenkugel's Summer Shandy",
+    "Brewery": "Jacob Leinenkugel Brewing Company"
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Goose Island Urban 312 Pale Ale",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Goose Island IPA",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Cincinnati Reds",
+    "Logos": "../static/images/Cincinnati-Reds-Logo.png",
+    "Beers": "Sam Adams Summer Ale",
+    "Brewery": "Boston Beer Company (Samuel Adams)"
+  },
+  {
+    "Teams": "Cleveland Indians",
+    "Logos": "../static/images/Cleveland-Indians-Logo.png",
+    "Beers": "Fat Head's Head Hunter IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Cleveland Indians",
+    "Logos": "../static/images/Cleveland-Indians-Logo.png",
+    "Beers": "The Brew Kettle White Rajah",
+    "Brewery": "The Brew Kettle Taproom & Smokehouse / Production Works"
+  },
+  {
+    "Teams": "Cleveland Indians",
+    "Logos": "../static/images/Cleveland-Indians-Logo.png",
+    "Beers": "Bell's Two Hearted Ale",
+    "Brewery": "Bell's Brewery - Eccentric Caf?? & General Store"
+  },
+  {
+    "Teams": "Cleveland Indians",
+    "Logos": "../static/images/Cleveland-Indians-Logo.png",
+    "Beers": "Dogfish Head 60 Minute IPA",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Cleveland Indians",
+    "Logos": "../static/images/Cleveland-Indians-Logo.png",
+    "Beers": "Great Lakes Dortmunder Gold",
+    "Brewery": "Great Lakes Brewing Co."
+  },
+  {
+    "Teams": "Colorado Rockies",
+    "Logos": "../static/images/Colorado-Rockies-Logo.png",
+    "Beers": "Great Divide Brewing Co. Titan IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Colorado Rockies",
+    "Logos": "../static/images/Colorado-Rockies-Logo.png",
+    "Beers": "Oskar Blues Dale's Pale Ale",
+    "Brewery": "Oskar Blues Grill & Brew"
+  },
+  {
+    "Teams": "Colorado Rockies",
+    "Logos": "../static/images/Colorado-Rockies-Logo.png",
+    "Beers": "Avery India Pale Ale (IPA)",
+    "Brewery": "Avery Brewing Company"
+  },
+  {
+    "Teams": "Colorado Rockies",
+    "Logos": "../static/images/Colorado-Rockies-Logo.png",
+    "Beers": "Odell 90 Shilling Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Colorado Rockies",
+    "Logos": "../static/images/Colorado-Rockies-Logo.png",
+    "Beers": "Odell Easy Street Wheat",
+    "Brewery": "Odell Brewing Company"
+  },
+  {
+    "Teams": "Detroit Tigers",
+    "Logos": "../static/images/Detroit-Tigers-Logo.png",
+    "Beers": "Bell's Two Hearted Ale",
+    "Brewery": "Bell's Brewery - Eccentric Caf?? & General Store"
+  },
+  {
+    "Teams": "Detroit Tigers",
+    "Logos": "../static/images/Detroit-Tigers-Logo.png",
+    "Beers": "Founders Porter",
+    "Brewery": "Founders Brewing Company"
+  },
+  {
+    "Teams": "Detroit Tigers",
+    "Logos": "../static/images/Detroit-Tigers-Logo.png",
+    "Beers": "Founders Red's Rye IPA",
+    "Brewery": "Founders Brewing Company"
+  },
+  {
+    "Teams": "Detroit Tigers",
+    "Logos": "../static/images/Detroit-Tigers-Logo.png",
+    "Beers": "Founders Dirty Bastard",
+    "Brewery": "Founders Brewing Company"
+  },
+  {
+    "Teams": "Houston Astros",
+    "Logos": "../static/images/Houston-Astros-Logo.png",
+    "Beers": "Saint Arnold Elissa IPA",
+    "Brewery": "Saint Arnold Brewing Company"
+  },
+  {
+    "Teams": "Houston Astros",
+    "Logos": "../static/images/Houston-Astros-Logo.png",
+    "Beers": "Saint Arnold Amber Ale",
+    "Brewery": "Saint Arnold Brewing Company"
+  },
+  {
+    "Teams": "Houston Astros",
+    "Logos": "../static/images/Houston-Astros-Logo.png",
+    "Beers": "Saint Arnold Fancy Lawnmower",
+    "Brewery": "Saint Arnold Brewing Company"
+  },
+  {
+    "Teams": "Houston Astros",
+    "Logos": "../static/images/Houston-Astros-Logo.png",
+    "Beers": "Blue Moon Belgian White",
+    "Brewery": "Coors Brewing Company (Molson-Coors)"
+  },
+  {
+    "Teams": "Houston Astros",
+    "Logos": "../static/images/Houston-Astros-Logo.png",
+    "Beers": "Goose Island Beer Co. 312 Urban Wheat",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Unfiltered Wheat",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Pale Ale",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Tank 7 Farmhouse Ale",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard The Calling",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard KC Pils",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard 80 Acre",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Single-Wide IPA",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Imperial Stout",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Boulevard Spring Belle",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Ommegang Cooperstown",
+    "Brewery": "Brewery Ommegang"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Ommegang Three Philosophers",
+    "Brewery": "Brewery Ommegang"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Sante Fe Java Stout",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Mothers Three Blind Mice",
+    "Brewery": "Mother's Brewing Company"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Founders All-Day IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "River North White",
+    "Brewery": "River North Brewery"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Breckenridge Agave Wheat",
+    "Brewery": "Breckenridge Brewery"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Kansas-City-Royals-Logo.png",
+    "Beers": "Martin City Abbey",
+    "Brewery": "Martin City Brewing Company"
+  },
+  {
+    "Teams": "Kansas City Royals",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "Duvel",
+    "Brewery": "Brouwerij Duvel Moortgat NV"
+  },
+  {
+    "Teams": "Los Angeles Angels of Anaheim",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "Stone Brewing Co. Arrogant Bastard Ale",
+    "Brewery": "Arrogant Consortia"
+  },
+  {
+    "Teams": "Los Angeles Angels of Anaheim",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "Hangar 24 Brewery Betty",
+    "Brewery": "Hangar 24 Brewing"
+  },
+  {
+    "Teams": "Los Angeles Angels of Anaheim",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "Bootlegger's Brewery Palomino American Pale Ale",
+    "Brewery": "Bootlegger's Brewery"
+  },
+  {
+    "Teams": "Los Angeles Angels of Anaheim",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "Goose Island Beer Co. India Pale Ale",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Los Angeles Angels of Anaheim",
+    "Logos": "../static/images/Anaheim-Angels-Logo.png",
+    "Beers": "New Belgium Brewing Ranger",
+    "Brewery": "New Belgium Brewing"
+  },
+  {
+    "Teams": "Los Angeles Dodgers",
+    "Logos": "../static/images/Los-Angeles-Dodgers-Logo.png",
+    "Beers": "Stone Brewing Co. Stone IPA",
+    "Brewery": "Firestone Walker Brewing Co."
+  },
+  {
+    "Teams": "Los Angeles Dodgers",
+    "Logos": "../static/images/Los-Angeles-Dodgers-Logo.png",
+    "Beers": "Stone Brewing Co. Arrogant Bastard Ale",
+    "Brewery": "Arrogant Consortia"
+  },
+  {
+    "Teams": "Los Angeles Dodgers",
+    "Logos": "../static/images/Los-Angeles-Dodgers-Logo.png",
+    "Beers": "Stone Brewing Co. Smoked Porter",
+    "Brewery": "Stone Brewing"
+  },
+  {
+    "Teams": "Los Angeles Dodgers",
+    "Logos": "../static/images/Los-Angeles-Dodgers-Logo.png",
+    "Beers": "Anchor Brewing Company Anchor Steam Beer",
+    "Brewery": "Anchor Brewing Company"
+  },
+  {
+    "Teams": "Miami Marlins",
+    "Logos": "../static/images/Miami-Marlins-Logo.png",
+    "Beers": "Goose Island Beer Co. Sofie",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Miami Marlins",
+    "Logos": "../static/images/Miami-Marlins-Logo.png",
+    "Beers": "Goose Island Beer Co. Matilda",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Miami Marlins",
+    "Logos": "../static/images/Miami-Marlins-Logo.png",
+    "Beers": "Goose Island Beer Co.India Pale Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Miami Marlins",
+    "Logos": "../static/images/Miami-Marlins-Logo.png",
+    "Beers": "Sweetwater Brewing Co. IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Milwaukee Brewers",
+    "Logos": "../static/images/Milwaukee-Brewers-Logo.png",
+    "Beers": "Sierra Nevada Torpedo Extra IPA",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Milwaukee Brewers",
+    "Logos": "../static/images/Milwaukee-Brewers-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Milwaukee Brewers",
+    "Logos": "../static/images/Milwaukee-Brewers-Logo.png",
+    "Beers": "Bell's Oberon Ale",
+    "Brewery": "Bell's Brewery - Eccentric Caf?? & General Store"
+  },
+  {
+    "Teams": "Milwaukee Brewers",
+    "Logos": "../static/images/Milwaukee-Brewers-Logo.png",
+    "Beers": "Milwaukee Brewing Company O-Gii",
+    "Brewery": "Milwaukee Brewing Company"
+  },
+  {
+    "Teams": "Milwaukee Brewers",
+    "Logos": "../static/images/Milwaukee-Brewers-Logo.png",
+    "Beers": "New Belgium Brewing Ranger",
+    "Brewery": "New Belgium Brewing"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Indeed Dandy Lager",
+    "Brewery": "Indeed Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Indeed Day Tripper",
+    "Brewery": "Indeed Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Indeed Shenanigans",
+    "Brewery": "Indeed Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Summit EPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Summit Hopvale",
+    "Brewery": "Summit Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Summit Maibock",
+    "Brewery": "Summit Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Summit Saga",
+    "Brewery": "Summit Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Surly Furious",
+    "Brewery": "Surly Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Surly Bender",
+    "Brewery": "Surly Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Surly Hell",
+    "Brewery": "Surly Brewing Company"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Fulton Lonely Blonde",
+    "Brewery": "Fulton Beer"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Fulton Sweet Child of Vine",
+    "Brewery": "Fulton Beer"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Grainbelt Premium",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Grainbelt Nordeast",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Grainbelt Light",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Third Street Three Way",
+    "Brewery": "Third Street Brewhouse"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Third Street Lost Trout",
+    "Brewery": "Third Street Brewhouse"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Lift Bridge Farm Girl",
+    "Brewery": "Lift Bridge Brewery"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Lift Bridge Hop Dish",
+    "Brewery": "Lift Bridge Brewery"
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Bauhaus Brew Labs Wonderstuff Ne?? Bohemian Pilsner",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Bauhaus Brew Labs Sky-Five!",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Bauhaus Brew Labs Midwest C??ast IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Bauhaus Brew Labs Stargrazer (rotating)",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "Bauhaus Brew Labs Wagon Party (rotating)",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Minnesota Twins",
+    "Logos": "../static/images/Minnesota-Twins-Logo.png",
+    "Beers": "North Lake Brewing Company Honey Brown Lager",
+    "Brewery": ""
+  },
+  {
+    "Teams": "New York Mets",
+    "Logos": "../static/images/New-York-Mets-Logo.png",
+    "Beers": "Spaten-Franziskaner-Br?�u Franziskaner Hefe-Weisse",
+    "Brewery": "Spaten-Franziskaner-Br?�u"
+  },
+  {
+    "Teams": "New York Mets",
+    "Logos": "../static/images/New-York-Mets-Logo.png",
+    "Beers": "Sixpoint Brewery Bengali Tiger",
+    "Brewery": "Sixpoint Brewery"
+  },
+  {
+    "Teams": "New York Mets",
+    "Logos": "../static/images/New-York-Mets-Logo.png",
+    "Beers": "Sixpoint Brewery Sweet Action",
+    "Brewery": "Sixpoint Brewery"
+  },
+  {
+    "Teams": "New York Mets",
+    "Logos": "../static/images/New-York-Mets-Logo.png",
+    "Beers": "Sixpoint Brewery The Crisp",
+    "Brewery": "Sixpoint Brewery"
+  },
+  {
+    "Teams": "New York Mets",
+    "Logos": "../static/images/New-York-Mets-Logo.png",
+    "Beers": "Southern Tier Brewing Company IPA",
+    "Brewery": "Southern Tier Brewing Company"
+  },
+  {
+    "Teams": "New York Yankees",
+    "Logos": "../static/images/New-York-Yankees-logo.png",
+    "Beers": "Goose Island Beer Co. Honker's Ale?�",
+    "Brewery": ""
+  },
+  {
+    "Teams": "New York Yankees",
+    "Logos": "../static/images/New-York-Yankees-logo.png",
+    "Beers": "Blue Moon Belgian White?�",
+    "Brewery": ""
+  },
+  {
+    "Teams": "New York Yankees",
+    "Logos": "../static/images/New-York-Yankees-logo.png",
+    "Beers": "Goose Island Beer Co. 312 Urban Wheat",
+    "Brewery": "Goose Island Beer Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. Wit",
+    "Brewery": "Strike Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. Brow",
+    "Brewery": "Strike Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. Opening Pitch Pale Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. IPA",
+    "Brewery": "Strike Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. Blonde",
+    "Brewery": "Strike Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Strike Brewing Co. Irish Red Ale",
+    "Brewery": "Strike Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Sierra Nevada Torpedo Extra IPA",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Drake's 1500 Pale Ale",
+    "Brewery": "Drake's Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Drake's IPA",
+    "Brewery": "Drake's Brewing Co."
+  },
+  {
+    "Teams": "Oakland Athletics",
+    "Logos": "../static/images/Oakland-Athletics-Logo.png",
+    "Beers": "Trumer Pil",
+    "Brewery": "Trumer Brauerei Berkeley"
+  },
+  {
+    "Teams": "Philadelphia Phillies",
+    "Logos": "../static/images/Philadelphia-Phllies-Logo.png",
+    "Beers": "Ommegang Rare Vos",
+    "Brewery": "Brewery Ommegang"
+  },
+  {
+    "Teams": "Philadelphia Phillies",
+    "Logos": "../static/images/Philadelphia-Phllies-Logo.png",
+    "Beers": "Victory Brewing Company Hop Devil Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Philadelphia Phillies",
+    "Logos": "../static/images/Philadelphia-Phllies-Logo.png",
+    "Beers": "Victory Brewing Company Prima Pils",
+    "Brewery": "Victory Brewing Company - Downingtown"
+  },
+  {
+    "Teams": "Philadelphia Phillies",
+    "Logos": "../static/images/Philadelphia-Phllies-Logo.png",
+    "Beers": "Victory Brewing Company",
+    "Brewery": "Victory Brewing Company - Downingtown"
+  },
+  {
+    "Teams": "Philadelphia Phillies",
+    "Logos": "../static/images/Philadelphia-Phllies-Logo.png",
+    "Beers": "Sly Fox Brewing Company Pikeland Pils",
+    "Brewery": "Sly Fox Brewing Company"
+  },
+  {
+    "Teams": "Pittsburgh Pirates",
+    "Logos": "../static/images/Pittsburgh-Pirates-Logo.png",
+    "Beers": "Bell's Two Hearted Ale",
+    "Brewery": "Bell's Brewery - Eccentric Caf?? & General Store"
+  },
+  {
+    "Teams": "Pittsburgh Pirates",
+    "Logos": "../static/images/Pittsburgh-Pirates-Logo.png",
+    "Beers": "Lagunitas A Little Sumpin' Sumpin' Ale",
+    "Brewery": "Lagunitas Brewing Company"
+  },
+  {
+    "Teams": "Pittsburgh Pirates",
+    "Logos": "../static/images/Pittsburgh-Pirates-Logo.png",
+    "Beers": "Dogfish Head Indian Brown Ale",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Pittsburgh Pirates",
+    "Logos": "../static/images/Pittsburgh-Pirates-Logo.png",
+    "Beers": "Dogfish Head 60 Minute IPA",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Pittsburgh Pirates",
+    "Logos": "../static/images/Pittsburgh-Pirates-Logo.png",
+    "Beers": "Victory Hop Devil Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Diego Padres",
+    "Logos": "../static/images/San-Diego-Padres-Logo.png",
+    "Beers": "Ballast Point Brewing Co. Sculpin IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Diego Padres",
+    "Logos": "../static/images/San-Diego-Padres-Logo.png",
+    "Beers": "Stone Brewing Co. Ruination IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Diego Padres",
+    "Logos": "../static/images/San-Diego-Padres-Logo.png",
+    "Beers": "Stone Brewing Co. Oaked Arrogant Bastard Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Diego Padres",
+    "Logos": "../static/images/San-Diego-Padres-Logo.png",
+    "Beers": "Stone Brewing Co. Sublimely Self-Righteous Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Diego Padres",
+    "Logos": "../static/images/San-Diego-Padres-Logo.png",
+    "Beers": "Green Flash West Coast I.P.A.",
+    "Brewery": ""
+  },
+  {
+    "Teams": "San Francisco Giants",
+    "Logos": "../static/images/San-Francisco-Giants-Logo.png",
+    "Beers": "Anchor Porter",
+    "Brewery": "Anchor Brewing Company"
+  },
+  {
+    "Teams": "San Francisco Giants",
+    "Logos": "../static/images/San-Francisco-Giants-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "San Francisco Giants",
+    "Logos": "../static/images/San-Francisco-Giants-Logo.png",
+    "Beers": "Anchor Steam Beer",
+    "Brewery": "Anchor Brewing Company"
+  },
+  {
+    "Teams": "San Francisco Giants",
+    "Logos": "../static/images/San-Francisco-Giants-Logo.png",
+    "Beers": "Lagunitas IPA",
+    "Brewery": "Lagunitas Brewing Company"
+  },
+  {
+    "Teams": "San Francisco Giants",
+    "Logos": "../static/images/San-Francisco-Giants-Logo.png",
+    "Beers": "Trumer Pils",
+    "Brewery": "Trumer Brauerei Berkeley"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Ninkasi Vanilla Oatis Stout",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Northwest Brewing Joker Amber Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Black Raven Trickster IPA",
+    "Brewery": "Black Raven Brewing Co."
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Black Raven Session IPA",
+    "Brewery": "Black Raven Brewing Co."
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Fremont Interurban IPA",
+    "Brewery": "Fremont Brewing Company"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Iron Horse Brewing Irish Death",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Spire Dark &amp; Dry cider",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Stone Brewing Company IPA",
+    "Brewery": "Saucony Creek Brewing Company + Gastropub"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Schooner Exact King Street Brown",
+    "Brewery": "Schooner Exact Brewing Company"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Pike 5X Stout",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Pike Kilt Lifter",
+    "Brewery": "Pike Brewing Company"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Pike Naughty Nellie",
+    "Brewery": "Pike Brewing Company"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "21st Amendment Watermelon wheat",
+    "Brewery": "21st Amendment Brewery"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "7 Seas Port Royal stout",
+    "Brewery": "7 Seas Brewery and Taproom"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Full Sail Amber",
+    "Brewery": "Full Sail Brewing Company"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Victory Prima Pils",
+    "Brewery": "Victory Brewing Company - Downingtown"
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Bale Breaker Top Cutter IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Rogue Hazlenut Brown Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Two Beers EVO IPA",
+    "Brewery": "Two Beers Brewing Co."
+  },
+  {
+    "Teams": "Seattle Mariners",
+    "Logos": "../static/images/Seattle-Mariners-Logo.png",
+    "Beers": "Diamond Knot IPA",
+    "Brewery": "Diamond Knot Brewery"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Goose Island IPA?�",
+    "Brewery": ""
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Goose Island Honkers?�",
+    "Brewery": ""
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "O'Fallon Wheach",
+    "Brewery": "O'Fallon Brewery"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Shock Top Wheat",
+    "Brewery": "Anheuser-Busch"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Schlafly Pale Ale",
+    "Brewery": "The Schlafly Tap Room"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Schlafly Summer Lager",
+    "Brewery": "The Schlafly Tap Room"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Schlafly Raspberry Hefeweize",
+    "Brewery": "The Schlafly Tap Room"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Urban Chestnut Zwickel",
+    "Brewery": "Urban Chestnut Brewing Company - Midtown Brewery & Biergarten"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Urban Chestnut Stli",
+    "Brewery": "Urban Chestnut Brewing Company - Midtown Brewery & Biergarten"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Urban Chestnut Hopfe",
+    "Brewery": "Urban Chestnut Brewing Company - Midtown Brewery & Biergarten"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Sam Adams Boston Lager",
+    "Brewery": "Boston Beer Company (Samuel Adams)"
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Boulevard Brewing Co.",
+    "Brewery": "Boulevard Brewing Co."
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Ranger IPA",
+    "Brewery": ""
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Blue Moon?�",
+    "Brewery": ""
+  },
+  {
+    "Teams": "St. Louis Cardinals",
+    "Logos": "../static/images/St.-Louis-Cardinals-Logo.png",
+    "Beers": "Leinenkugel",
+    "Brewery": "Jacob Leinenkugel Brewing Company"
+  },
+  {
+    "Teams": "Tampa Bay Rays",
+    "Logos": "../static/images/Tampa-Bay-Rays-logo.png",
+    "Beers": "Samuel Adams Boston Lager",
+    "Brewery": "Boston Beer Company (Samuel Adams)"
+  },
+  {
+    "Teams": "Tampa Bay Rays",
+    "Logos": "../static/images/Tampa-Bay-Rays-logo.png",
+    "Beers": "New Belgium Fat Tire Amber Ale",
+    "Brewery": "New Belgium Brewing"
+  },
+  {
+    "Teams": "Tampa Bay Rays",
+    "Logos": "../static/images/Tampa-Bay-Rays-logo.png",
+    "Beers": "Blue Moon Belgian White",
+    "Brewery": "Coors Brewing Company (Molson-Coors)"
+  },
+  {
+    "Teams": "Tampa Bay Rays",
+    "Logos": "../static/images/Tampa-Bay-Rays-logo.png",
+    "Beers": "Batch 19",
+    "Brewery": "Coors Brewing Company (Molson-Coors)"
+  },
+  {
+    "Teams": "Tampa Bay Rays",
+    "Logos": "../static/images/Tampa-Bay-Rays-logo.png",
+    "Beers": "Leinenkugel's Summer Shandy",
+    "Brewery": "Jacob Leinenkugel Brewing Company"
+  },
+  {
+    "Teams": "Texas Rangers",
+    "Logos": "../static/images/Texas-Rangers-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Texas Rangers",
+    "Logos": "../static/images/Texas-Rangers-Logo.png",
+    "Beers": "Oskar Blues Dale's Pale Ale",
+    "Brewery": "Oskar Blues Grill & Brew"
+  },
+  {
+    "Teams": "Texas Rangers",
+    "Logos": "../static/images/Texas-Rangers-Logo.png",
+    "Beers": "Founders All Day IPA",
+    "Brewery": "Founders Brewing Company"
+  },
+  {
+    "Teams": "Texas Rangers",
+    "Logos": "../static/images/Texas-Rangers-Logo.png",
+    "Beers": "Odell 90 Shilling Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Texas Rangers",
+    "Logos": "../static/images/Texas-Rangers-Logo.png",
+    "Beers": "Franconia Lager",
+    "Brewery": "Franconia Brewing Company"
+  },
+  {
+    "Teams": "Toronto Blue Jays",
+    "Logos": "../static/images/Toronto-Blue-Jays-logo.png",
+    "Beers": "Alexander Keith's Galaxy Hop Ale",
+    "Brewery": "Alexander Keith's"
+  },
+  {
+    "Teams": "Toronto Blue Jays",
+    "Logos": "../static/images/Toronto-Blue-Jays-logo.png",
+    "Beers": "Alexander Keith's Hallertauer Hope Ale",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Toronto Blue Jays",
+    "Logos": "../static/images/Toronto-Blue-Jays-logo.png",
+    "Beers": "Alexander Keith's Cascade Hop Ale",
+    "Brewery": "Alexander Keith's"
+  },
+  {
+    "Teams": "Toronto Blue Jays",
+    "Logos": "../static/images/Toronto-Blue-Jays-logo.png",
+    "Beers": "Stella Artois",
+    "Brewery": "Stella Artois"
+  },
+  {
+    "Teams": "Toronto Blue Jays",
+    "Logos": "../static/images/Toronto-Blue-Jays-logo.png",
+    "Beers": "Labatt Canadian Ale/Labatt 50",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Washington Nationals",
+    "Logos": "../static/images/Washington-Nationals-Logo.png",
+    "Beers": "Dogfish Head Brewery 60 Minute IPA",
+    "Brewery": "Dogfish Head Craft Brewery"
+  },
+  {
+    "Teams": "Washington Nationals",
+    "Logos": "../static/images/Washington-Nationals-Logo.png",
+    "Beers": "Flying Dog Brewery Gonzo Imperial Porter",
+    "Brewery": "Flying Dog Brewery"
+  },
+  {
+    "Teams": "Washington Nationals",
+    "Logos": "../static/images/Washington-Nationals-Logo.png",
+    "Beers": "Sierra Nevada Pale Ale",
+    "Brewery": "Sierra Nevada Brewing Co."
+  },
+  {
+    "Teams": "Washington Nationals",
+    "Logos": "../static/images/Washington-Nationals-Logo.png",
+    "Beers": "Boulevard Brewing Co. Dark Truth Stout",
+    "Brewery": ""
+  },
+  {
+    "Teams": "Washington Nationals",
+    "Logos": "",
+    "Beers": "Allagash Saison Ale",
+    "Brewery": "Allagash Brewing Company"
+  }
+]
